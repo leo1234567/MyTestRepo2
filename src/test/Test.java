@@ -12,7 +12,7 @@ public class Test{
 //	
 //	int [][] desk = new int[8][8];
 //	int count = 0;
-	///
+	
 	
 	private List init(Context context) {
 		List<Pair> moves = new LinkedList<Pair>();
