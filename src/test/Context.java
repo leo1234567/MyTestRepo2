@@ -7,7 +7,7 @@ public class Context implements Cloneable{
 	int [][] desk = new int[8][8];
 	int count = 0;
 	//bbb
-	//www
+	
 	
 	public int getX() {
 		return x;
